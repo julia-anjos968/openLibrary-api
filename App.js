@@ -48,7 +48,6 @@ export default function App() {
             setLoading(false);
         }
     }
-// ji
     return (
         <View style={styles.container}>
             <Text style={styles.titulo}>Aurora Library</Text>
